@@ -14,7 +14,7 @@ Upload, Update and Delete Files using Django Python
 
 ## Setting up and Running the Assesment
 1. Download and open the folder
-2. Open powershell inside the folder location (ex: PS C:\Users\alija\OneDrive\Desktop\Sherin_EkAnek>)
+2. Open powershell inside the folder location (ex: PS C:\Users\alija\OneDrive\Desktop\File_Upload-main>)
 3. Run the following commands
    3.1. pipenv shell 
    3.2. pipenv install django
