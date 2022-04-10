@@ -16,10 +16,10 @@ Upload, Update and Delete Files using Django Python
 1. Download and open the folder
 2. Open powershell inside the folder location (ex: PS C:\Users\alija\OneDrive\Desktop\File_Upload-main>)
 3. Run the following commands
-   3.1. pipenv shell 
-   3.2. pipenv install django
-   3.3. pipenv install django-crispy-forms
-   3.4. python manage.py makemigrations
-   3.5. python manage.py migrate
-   3.6. python manage.py runserver
-4. Open  http://127.0.0.1:8000/ in a browser
+4. pipenv shell 
+5. pipenv install django
+6. pipenv install django-crispy-forms
+7. python manage.py makemigrations
+8. python manage.py migrate
+9. python manage.py runserver
+10. Open  http://127.0.0.1:8000/ in a browser
