@@ -6,7 +6,7 @@ Upload, Update and Delete Files using Django Python
 4. Also, I can share one of my files publicly using a URL generated.
 # Backend Assesment using django - python
 
-# prerequisites
+# Prerequisites
 1. python > 3.8
 2. pip 22.0.3
 3. pipenv (if not available run the command pip install pipenv)
@@ -16,10 +16,10 @@ Upload, Update and Delete Files using Django Python
 1. Download and open the folder
 2. Open powershell inside the folder location (ex: PS C:\Users\alija\OneDrive\Desktop\Sherin_EkAnek>)
 3. Run the following commands
-3.1. pipenv shell 
-3.2. pipenv install django
-3.3. pipenv install django-crispy-forms
-3.4. python manage.py makemigrations
-3.5. python manage.py migrate
-3.6. python manage.py runserver
+## 3.1. pipenv shell 
+## 3.2. pipenv install django
+## 3.3. pipenv install django-crispy-forms
+## 3.4. python manage.py makemigrations
+## 3.5. python manage.py migrate
+## 3.6. python manage.py runserver
 4. Open http:/127.0.0.1:80000 in a browser
